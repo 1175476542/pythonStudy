@@ -1,0 +1,5 @@
+name = input("请输入你的名字： ")
+age = int(input("请输入你的年龄： "))
+print("你的名字是%s,你的年龄是%d" %(name,age))
+print("你的名字是%s,你的年龄是%s" %(name,age))
+print(f"你的名字是{name},你的年龄是{age}")
