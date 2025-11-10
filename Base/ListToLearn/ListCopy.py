@@ -1,0 +1,5 @@
+# 复制列表
+brand_list =  ["神州","宏碁","联想","机械革命","华硕天选","联想拯救者"]
+brand_list1 = brand_list.copy()
+print(brand_list)
+print(brand_list1)
